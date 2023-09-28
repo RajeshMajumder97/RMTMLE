@@ -9,4 +9,5 @@
 ### 17th August 2023
 
 Go to https://rajeshmajumder97.github.io/RMTMLE/ to see the presentation.
-Go my blog  https://rajeshmajumderblog.netlify.app/ and leave a comment.
+
+Go to my blog  https://rajeshmajumderblog.netlify.app/ and leave a comment.
